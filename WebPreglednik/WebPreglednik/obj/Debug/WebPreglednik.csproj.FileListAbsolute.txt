@@ -1,0 +1,22 @@
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\bin\Debug\WebPreglednik.exe.config
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\bin\Debug\WebPreglednik.exe
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\bin\Debug\WebPreglednik.pdb
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.Form1.resources
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.Properties.Resources.resources
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.exe
+C:\Users\ucenik\Documents\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.pdb
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\bin\Debug\WebPreglednik.exe.config
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\bin\Debug\WebPreglednik.exe
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\bin\Debug\WebPreglednik.pdb
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.Form1.resources
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.Properties.Resources.resources
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.csproj.GenerateResource.cache
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.exe
+C:\Users\ucenik\Downloads\Nova mapa (2)\WebPreglednik-main\WebPreglednik\WebPreglednik\obj\Debug\WebPreglednik.pdb
